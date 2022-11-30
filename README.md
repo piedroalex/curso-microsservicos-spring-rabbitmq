@@ -1,5 +1,3 @@
-# curso-microsservicos-spring-rabbitmq
-
 # Projeto: alurafood
 
 Desenvolvido durante o curso [Microsserviços na prática: mensageria com RabbitMQ](https://www.alura.com.br/curso-online-microsservicos-pratica-mensageria-rabbitmq) da Alura.
